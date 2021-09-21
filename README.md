@@ -1,6 +1,9 @@
 # Taskinator
 
-apply the following skills::
+Deployed Site ()
+
+
+APPLY THE FOLLOWING SKILLS::
 
 Implement third-party libraries such as Bootstrap, jQuery, and Moment.js
 
