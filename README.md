@@ -1,6 +1,6 @@
 # Taskinator
 
-Deployed Site ()
+Deployed Site (https://pamelac21.github.io/Taskinator/)
 
 
 APPLY THE FOLLOWING SKILLS::
