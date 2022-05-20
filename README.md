@@ -1,9 +1,27 @@
 # Taskinator
 
+## Description 
+A task-tracker app called Taskinator. Taskinator will allow you to organize your personal to-do list items by using a dropdown menu to change the task status and move the task into To Do, In Progress, and Completed lists.
+
+
 ## Deployed Site (https://pamelac21.github.io/Taskinator/)
 <img src="https://user-images.githubusercontent.com/87335354/169617032-c45f72aa-9cab-454e-abe6-5a83ff0da14d.jpg" width="800">
 
 
+## Built With :toolbox: 
+- HTML
+- CSS
+- JavaScript
+
+## Features
+
+- Users can add new tasks and select a task types
+- Tasks are added to the "To Do" list
+- Tasks can be kept permanently, edited or removed 
+- Users can update the status of their task to "In Progress" or "Task Completed" via menu section or drag-and-drop functionality
+- Tasks are saved in the user's local storage and will reload upon refreshing the page
+- Application is responsive
+- 
 
 ## APPLY THE FOLLOWING SKILLS::
 
