@@ -1,6 +1,8 @@
 # Taskinator
 
-Deployed Site (https://pamelac21.github.io/Taskinator/)
+## Deployed Site (https://pamelac21.github.io/Taskinator/)
+<img src="https://user-images.githubusercontent.com/87335354/169617032-c45f72aa-9cab-454e-abe6-5a83ff0da14d.jpg" width="600">
+
 
 
 APPLY THE FOLLOWING SKILLS::
