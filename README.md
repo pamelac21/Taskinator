@@ -1,11 +1,11 @@
 # Taskinator
 
 ## Deployed Site (https://pamelac21.github.io/Taskinator/)
-<img src="https://user-images.githubusercontent.com/87335354/169617032-c45f72aa-9cab-454e-abe6-5a83ff0da14d.jpg" width="600">
+<img src="https://user-images.githubusercontent.com/87335354/169617032-c45f72aa-9cab-454e-abe6-5a83ff0da14d.jpg" width="800">
 
 
 
-APPLY THE FOLLOWING SKILLS::
+## APPLY THE FOLLOWING SKILLS::
 
 Implement third-party libraries such as Bootstrap, jQuery, and Moment.js
 
@@ -23,7 +23,7 @@ Work with custom fonts and icons via a content delivery network (CDN)
 
 
 
-Learning Objectives
+## Learning Objectives
 By completing this module, you will learn how to:
 
 Explain the difference between jQuery and JavaScript
@@ -47,7 +47,7 @@ Implement custom fonts and icons via CDNs
 
 
 
-LEARNED::
+## LEARNED::
 
 We learned what third-party libraries are and what purposes they serve.
 
