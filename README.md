@@ -85,3 +85,7 @@ We learned about timed events in JavaScript and how to use callback functions in
 
 BONUS: We also learned that JavaScript deals in milliseconds.
 We reinforced our knowledge of CSS layouts and design.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
